@@ -1,0 +1,9 @@
+e:\users\po\documents\visual studio 2015\Projects\Dodgy Circle\Dodgy Circle\bin\Debug\Dodgy Circle.exe.config
+e:\users\po\documents\visual studio 2015\Projects\Dodgy Circle\Dodgy Circle\bin\Debug\Dodgy Circle.exe
+e:\users\po\documents\visual studio 2015\Projects\Dodgy Circle\Dodgy Circle\bin\Debug\Dodgy Circle.pdb
+e:\users\po\documents\visual studio 2015\Projects\Dodgy Circle\Dodgy Circle\obj\Debug\Dodgy Circle.csprojResolveAssemblyReference.cache
+e:\users\po\documents\visual studio 2015\Projects\Dodgy Circle\Dodgy Circle\obj\Debug\Dodgy_Circle.GameWind.resources
+e:\users\po\documents\visual studio 2015\Projects\Dodgy Circle\Dodgy Circle\obj\Debug\Dodgy_Circle.Properties.Resources.resources
+e:\users\po\documents\visual studio 2015\Projects\Dodgy Circle\Dodgy Circle\obj\Debug\Dodgy Circle.csproj.GenerateResource.Cache
+e:\users\po\documents\visual studio 2015\Projects\Dodgy Circle\Dodgy Circle\obj\Debug\Dodgy Circle.exe
+e:\users\po\documents\visual studio 2015\Projects\Dodgy Circle\Dodgy Circle\obj\Debug\Dodgy Circle.pdb
